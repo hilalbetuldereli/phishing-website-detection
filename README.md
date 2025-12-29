@@ -7,7 +7,6 @@
 
 Bu proje, phishing (oltalama) web sitelerinin **makine öğrenmesi yöntemleri** kullanılarak tespit edilmesini amaçlamaktadır. Çalışmada URL ve içerik tabanlı özellikler kullanılarak **Logistic Regression** ve **Random Forest** modelleri eğitilmiş, performansları karşılaştırılmış ve en başarılı model **Gradio tabanlı bir web arayüzü** ile sunulmuştur.
 
-📌 Bu çalışma, **Veri Bilimine Giriş dersi** kapsamında hazırlanmıştır.
 
 ---
 
