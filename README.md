@@ -15,7 +15,7 @@ Bu proje, phishing (oltalama) web sitelerinin **makine öğrenmesi yöntemleri**
 ```
 phishing-website-detection/
 │
-├── phishing_detection.ipynb
+├── phishing_website_detection.ipynb
 ├── README.md
 └── veribiliminegirisrapor.docx
 
